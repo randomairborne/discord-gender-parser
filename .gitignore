@@ -1,0 +1,8 @@
+/target
+
+/events-*.json
+/output.json
+
+/.idea
+/.vscode
+
