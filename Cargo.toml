@@ -1,5 +1,5 @@
 [package]
-name = "dape"
+name = "discord-gender-parser"
 version = "0.1.0"
 edition = "2021"
 
